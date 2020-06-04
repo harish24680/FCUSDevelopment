@@ -53,7 +53,7 @@ Quality Management Plan is about maintaining the quality throughout the project 
 
 Metrics:
 
-We use the following metrics to measure the quality:
+We use the following metrics to measure the quality:  
 •	High level malfunctions are caused by planning errors. This should be taken care of by project manager.  
 •	Intermediate stage faults are close to bugs. These are the mistakes that arise when we integrate various pieces into one project. Then we can do ample research.   
 •	Low Level Defects are software-related hardware defects and can be removed by providing the software required.   
