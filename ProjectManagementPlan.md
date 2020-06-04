@@ -1,79 +1,51 @@
 
 # Project Management Plan:
-Introduction:
+
+## Introduction:
 
 This project is all about the banking application. This app will contain two modules app admin module and app user module. In the app user module the user will do the transactions and requests for their necessary requirements and they can also check there account details and needs. In the app admin module, admin will do the necessary actions and requests of all the users and they will post all the needs of the users. The application development process will be done by the web developer and interface with the UI developer and backend work will be done by the back-end developer. The team lead will handle the work process.
 
 # Project Scope Management:
 
 This briefly shows all the work that is done within a project.
-# Requirements Specifications:
+## Requirements Specifications:
 
 ID|Requirement|Priority|Type|
 ---|---|---|---|
-1 |The application should have user friendly interface |High|Functional
-2 |The application should allow login for admins and users |High|Functional
-3 |The users should be able to retake the quiz |High|Functional
-4 |The user should see the number of attempts |High|Functional
-5 |The user should be able to view his/her score after each attempt |High|Functional
-6 |The user should see all the criterias(knowledge areas) provided to test him/her |Medium|Non-Functional
-7 |The user sould be able to select the number of questions |Low|Non-Functional
-8 |The user should be able to see his/her leaderboard position |Low|Non-Functional
-9 |The user should be shown the comment about the score after completion of the exam |Low|Non-Functional
-10|The user should be able to see the activity history |Low|Functional
+1 |Application should have user friendly interface |High|Functional
+2 |Application should allow login for admins and users |High|Functional
+3 |Application should be safe and secured. |High|Functional
+4 |Mobile application should be bug free |High|Functional
+5 |Application must be capable of long-term performance.|Medium|Functional
+6 |Application should be Flexibility &Adaptability.|Low|Non-Functional
+7 |The user sould be able to do bank transcations |High|Non-Functional
+8 |The bank admins should be able to operate bank transactions |High|Non-Functional
 
-# Scope Statement:
+## Scope Statement:
 It shows the details regarding deliverables and the objectives of the project.
 
-Scope:
+## Scope Statement Link:
 
-This includes the information taken from all the stakeholders such as the user registration, user login and logout, selecting the knowledge area, taking the quiz upon the interested topic, evaluating the results etc.,
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/Scope%20Statement.doc
 
-Project charter link:
+## Project charter link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PROJECT_CHARTER.md
-
-Deliverables:
-
-It's a web application which allows students to take quiz upon the different knowledge areas.
-
-Assumptions:
-
-- No changes in cost estimation.
-- All the team members have equal knowledge in all areas of the project.
-- Changes in requirements may or may not happen.
-
-Project exclusion:
-
-The requirement changes that we come across after planning and implementing the project.
-
-Constraints:
-
-Scope: Application satisfies some of the agenda mentioned for the project.
-
-Time: Project is completed within the specified time i.e., milestones. According to our schedule, our project should be completed by the first week of june.
-
-Cost: Application should be developed within the estimated cost.
-
-Quality: Application should be useful to the students.
-
-# Work Breakdown Structure:
-
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/Project%20Charter.docx
 
 # Project Schedule Management:
 
-Link to Gantt chart:
+## Work Breakdown Structure:
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/WBS.xls
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/QuizBuzzGanttChart.pod
+## Link to Gantt chart:
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/Gantt%20Chart.xlsx
 
 # Project Cost Management:
 
 Cost management is about completing the project within the budget by planning, estimating, budgeting, financing, funding, managing, and controlling costs.
 
-Link to cost estimation:
-
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/Project-Cost-Management.md
+## Link to cost estimation:
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/Cost%20Estimate.xls
 
 # Project Quality Management Plan:
 
@@ -81,126 +53,75 @@ Quality Management Plan is about maintaining the quality throughout the project 
 
 Metrics:
 
-Some of the measures of quality are as follows.,
-- Number of bugs per test=Total number of defects/Total number of tests
-- Number of tests run per time period=Number of tests run/Total time
-- Test design efficiency=Number of tests designed/Total time
-- Bug find rate=Total number of defects/Total number of test hours
-- Test review efficiency=Number of tests reviewed/Total time
-- Passed Test Cases Percentage= (Number of Passed Tests/Total number of tests executed)*100
-- Failed Test Cases Percentage= (Number of Failed Tests/Total number of tests executed)*100
-- Fixed Defects Percentage= (Defects Fixed/Defects Reported)*100
-- Critical Defects Percentage= (Critical Defects/Total Defects Reported)*100
-- Rework Effort Ratio= (Actual rework efforts spent in that phase/total actual efforts spent in that phase)*100
-
-Roles and responsibilities:
-
-Name | Role | Quality Responsibility |
------|------|-------|
-Meghana Putta | Quality Analyst | Quality Approver |
-Jyoshna Boppidi| Developer | Quality Assurance |
-Himabindu Poshala | Tester | Quality Auditor |
-Preetham Potu | Project Manager | Quality Mentor |
-Abhiram Madugula| Project Sponsor | Quality Monitoring |
-
-Tools and techniques:
-
-- Flow Charts: For analyzing the sequence of events.
-- Control Charts: For monitoring the performance.
-- Check Sheets: For gathering and organizing data.
-- Histograms: For showing the frequency of two variables.
-- Pareto Charts: For identifying the priorities.
+We use the following metrics to measure the quality:
+•	High level malfunctions are caused by planning errors. This should be taken care of by project manager. 
+•	Intermediate stage faults are close to bugs. These are the mistakes that arise when we integrate various pieces into one project. Then we can do ample research. 
+•	Low Level Defects are software-related hardware defects and can be removed by providing the software required. 
+•	Unit Percentage of test cases = (Number of tests passed / Cumulative tests performed)*100
+•	Compatibility The proportion of test cases = (Number of exams obtained / Maximum experiments carried out)*100 
+•	Number of bugs per test = Total number of faults/ Total number of tests 
+•	Set defect percentage = (Current defects / Total recorded defects) * 100 
+•	Test Quality Output = Amount of Tests / Overall time 
+•	Error Locate Average = Total number of faults / Total test hours.
+•	Availability criteria = (Number of specifications protected / Maximum requirements)*100 
+•	Percentage of test cases conducted = (Number of test runs / Total number of test runs required)*100
+•	Acceptance defects = 0 High defects, 2 Medium defects, 4 Low defects = defects accepted by team / Total defects reported as valid
 
 # Project Resource Management:
 
 Project Resource Management is about managing the resources of an organiization such as human skills, financial resources, inventory etc., effectively.
 
-Project orgnizational chart:
+Project orgnizational chart Link:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/OC.PNG)
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone03/project%20organizational%20chart.ppt
 
 # Project Communication Management Plan:
-Communication is crucial for every project success. Planning is the way to communicate your path through time to complete a series of tasks. Communication could be through mails, hangouts, Messages, phone calls..etc. Communication controls to ensure the stakeholder to meet the requirements.
+
+Communication Management plan assist in identifying the communication requirements for the project. Therefore project manager can constantly communicate with stake holder regarding the requirements and flow of the project which in turn helps in producing the effective project results. Mohan Krishna Alavala will look after the project meetings, while the project lead will communicate with each of the team member about their work in the project
 
 Contents in the project communication management plan are as follows.,
 
-- 1. Information to be communicated, including format, content, and level of detail :-
+1. Comments/Guidelines:
 
-The information to be communicated for a project through email, seminars, conferences etc. The schedule for the communication plan can be created on Gantt Chart. The confidential information of the project can be shared through Google Docs and Github.
+Recognize project stakeholders 
+Planning communications and information sharing
+Managing expectations for stakeholders 
+Communications efficiency monitoring
 
-- 2. Who will receive the information and who will produce it :-
- 
-The information related to the project will be communicated with the project manager through Emails or phone calls. According to the communication management plan the project information is shared to the project manager if there are any changes in the project.
+2. Escalation procedures for resolving issues:
 
-- 3. Suggested methods or technologies for conveying the information :-
+If there is any project issue, then bring to the team manager notice, then he will resolve it or provide a solution to that particular issue. If there are any conflicts among the team members, then it would be taken to the project manager's notice.
 
-Communication management plan can be shared using collaborative tools like SharePoint portal, Google Docs, for this we need to authorize out team members to edit the documents and make sure to share the information to right people.
+3. Revision procedures for this document:
 
-- 4. Frequency of communication :-
+If the document needs to undergo a review or possess any changes, then the document will  to be sent to the project manager for his approval, who In turn reviews the document throughly and send It to the stake holders for their approval.once the document got acceptance from the stake holders ,It Is pulished to all the stake holders for fture development by both project team and stake holders.
 
-If the project team members will be in the same location then they need to communicate through the face-to-face meetings for better communication. If they are in different locations then they need to communicate through the video calls to rectify there errors when they run the code. Project status meetings are conducted on weekly basis and scrum meetings are held on daily basis with all the stakeholders.
+4. Glossary of common terminology:
 
-- 5. Escalation procedures for resolving issues :-
+Approval: getting acceptance 
+Escalation: refers to sending a project to a higher level of the organization for resolution.
+Stake holders: An individual or groups involved in the project who may be affected by   the activities of the project.
 
-For resolving issues in the project we need to report to the higher authority.
-The issues are created and tracked by using different tools.
-
-- 6. Revision procedures for updating the communications management plan :-
-
-We can use collaborative tools like SharePoint Portals, Google Docs to share the documents among the team members.
-
-- 7. A glossary of common terminology :-
-
-Stakeholder - The people who involved in or affected by the project’s activities.
-Escalation - The process which details how conflicts and issues will be passed to the higher authority.
-
-- 8. Stakeholder communications requirements :-
-
-Stakeholders|Document Name|Document Format|Contact Person|Due Date|
----|---|--|--|--|
-Program Manager|Project status report |Email |abhiram.madu@gmail.com |Every week
-Project Manager |Project status report |Email |preetham.potu@gmail.com |Bi-Weekly
-Team Lead |Project status report |Email |preetham.potu@gmail.com |Every week
-Team member |Project documents |Email |jyoshna.boppidi@gmail.com |Daily
-Team member |Project documents |Email |himabindu.poshala@gmail.com| Daily
-Developer |Project documents |Email |meghana.putta@gmail.com |Daily
-Tester |Test reports |Report |abhiram.madu@gmail.com |End of the each task
-Project Sponsor |Budget analysis |Report |meghana.putta@gmail.com |One month before the project starts
 
 # Project Risk Management
 
-Project risk management deals with identifying, analyzing, evaluating, prioritizing, treating, monitoring and reviewing the risks that occur in developing projects. 
+Risk management is the way toward distinguishing zones of risk that could adversely affect the accomplishment of the task and proactively dealing with those regions. The methodology we have taken to oversee dangers for this venture incorporates a procedure by which the task dangers are distinguished and positioned by the different impact of that chance on the undertaking.
 
-ID|Risk| Risk Management Plan|
----|---|---|
-1 | Methodology | We’ll be checking and correcting the defects before delivering the outputs to client. |
-2 | Roles & Responsibilities | Every individual in the team is assigned specific task to take care of different types of risks that the project may undergo and they should get approval from the high level teams to manage them. |
-3 | Budget & Schedule | If budget and schedule undergoes drastic changes, they should be controlled by taking necessary actions. |
-4 | Risk Categories | Technical risks: Risks related to the technical aspects, where the outputs are uncertain. <br> People risks: Knowledge and behavior of people may impact the projects. <br> Operational risks: Unexpected failures in the project which may be because of technical or server issues. <br> Financial risks: Problems related to the cash flows in the project. |
-5 | Risk probability and impact | Risks are sorted and prioritized to manage them effectively. |
-6 | Revised stakeholders’ tolerances | Changes in risk management plan are done as per the requirements of stakeholders. |
-7 | Tracking | Risk management plan is checked and updates are tracked frequently. |
-8 | Risk documentation | Submit the documentation details of risks to management. |
+This project is an easy to understand and simple to explore site with a quality substance pretty much all the procedure gatherings and the information regions. We give an interface where the client can choose an occasion to be visited or sorted out and make the booking as per their necessities.
 
-Risk mitigation strategies:
+## Risk mitigation strategies:
 
-SNo|Major Risks|Strategies to Mitigate Risks|Responsibility|
-----|----|------|-----|
-1 |Operational Risks|Procure significant resources to design a more robust risk-management framework|Project Manager, Program Manager
-2 |Financial Risks|Take informed decisions regarding future expenses|Financial Manager, Program manager,Project Manager
-3 |Technical Risks|Train and test the employees frequently |Program Manager
-4 |People Risks|Recruit employees from different areas |Program Manager
-5 | Market Risks|Keeping track of all the similar products in the market|Program Manager
+SNo|Major Risks|Strategies to Mitigate Risks|
+----|----|------|
+1 |Missing clarity on requirements and incorrect functionality implementation|Proper clarity on requirements are documented and given to all the employees who are working on project
+2 |Team gelling|In the beginning of the project itself, the correct team will be chosen.
+3 |Communication between project team and stakeholders|Proper communication plans need to be established. A sufficient number of meetings should be held between them and the documents for future reference should be given for each meeting.
+4 |Proper functioning of the project |Each module must be checked for its correctness. In any case, monitoring must not be ignored.
+5 | Budget deficiency for the project|The budget must be tracked and controlled at every level of the project and submitted to the stakeholders.
 
- Risk Register:
+ Risk Register Link:
 
-Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Potential Responses | Risk Owner | Probability | Impact | Status | 
----|---|---|---|---|---|---|---|---|---|---|---|
-R1| 1 | Internal fraud| When trusted people tried to exploit the confidential data of the organization| Operational| Improper verification of the employee | Replication of data | Risk Mitigation | Operational Manager | High| High | Prediction |
-R2| 2 | Employee skills |Improper knowledge of the team members may result in unhealthy projects| Technical Risk | Lack of efficient training | Irrelevant deliverables | Risk Acceptance | Program Manager | Medium | Medium | Prediction |
-R3| 3 | Absenteeism| No call and no show of the employee may cause problems to the flow of the project| People Risk | Lack of commitment | Production issues | Risk Mitigation |Project Manager| Low | High | Expected |
-R4| 4 | Investment risk | When the companies unable to manage its debt and cover its expenses| Financial Risk | no proper budget planning | Delaying deadlines | Risk Avoidance | Financial Manager| High | Medium | Avoided|
-R5| 5 | Quality requirements | Frequent changes in the requirements by the client may affect the quality of the project | Technical Risk | Requirement changes| Doesn’t meet user requirements | Risk Acceptance | Project Manager | Medium | High | Expected | 
+ https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone03/risk%20register.xls
 
 # Project Procurement Management:
 
