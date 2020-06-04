@@ -127,140 +127,45 @@ SNo|Major Risks|Strategies to Mitigate Risks|
 
 Procurement management plan:
 
-Third Party Documentation tool is acquired from another project within the same IT industry. The unit testing team is outsourced from another consulting company.
+Procurement contracts helps in project to save much of the money spent when purchasing goods and services from outside. Types of procurement contracts are generally 3 types of bilateral contracts: price-fixed, cost-reimbursable, or time and materials.
+1.	Fixed Price Contracts (FP): Fixed price contracts involve a predetermined fixed price for the product and are used when the product is well defined. Therefore, the seller bears a higher burden of the cost risk than the buyer.
+2.	Cost reimbursable (CR): contracts involve payment based on sellers’ actual costs as well as a fee or incentive for meeting or exceeding project objectives. Therefore, the buyer bears the highest cost risk.
+3.	Time and Material Contracts (T&M): Time and material contracts contain characteristics of both fixed price and cost reimbursable contracts and are generally used for small project cost amounts.
+A few agreements may include more than one of these payment structures in a single contract for procurement contract.
+The procurement strategy method helps you to identify the best vendors and manufacturers for the materials and resources you need for the project. Using the correct form of procurement contract will have a huge effect on the performance of the project, as each type of procurement contract has its own pros and cons.
 
-Statement of work:
+A few types of procurement documents are:
+•	RFP - A request for proposal is an early stage in a procurement process issuing an invitation for suppliers, often through a bidding process, to submit a proposal on a specific commodity or service.
+•	RFI - A request for information (RFI) is a proposal requested from a potential seller or a service provider to determine what products and services are potentially available in the marketplace to meet a buyer's needs and to know the capability of a seller in terms of offerings and strengths of the seller.
+•	RFQ - A request for quotation (RFQ) is used when discussions with bidders are not required (mainly when the specifications of a product or service are already known) and when price is the main or only factor in selecting the successful bidder.
+•	Solicitations: These are invitations of bids, requests for quotations and proposals. These may serve as a binding contract.
+•	Offers - This type of procurement documents are bids, proposals and quotes made by potential suppliers to prospective clients.
+•	Contracts - Contracts refer to the final signed agreements between clients and suppliers.
+•	Amendments/Modifications - This refers to any changes in solicitations, offers and contracts. Amendments/Modifications have to be in the form of a written document.
 
-1.	Scope of work:
+## Request for proposal Link:
 
-- In this project, the user should be able to test him/herself about the processes in knowledge areas. Application starts with user registration and login and then they can either study or take a quiz on different knowledge areas. The expected outcome is to develop a web application which quizzes the users on the concepts of Project Management course. The resources for the project consists of human assets, hardware and software.
-
-- The human resource includes following roles which include:
-
-   Project sponsor – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-   Tester – Himabindu Poshala (s533727@nwmissouri.edu)<br>
-   Developer – Jyoshna Boppidi (s533706@nwmissouri.edu)<br>
-   Developer – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-   Quality analyst – Meghana Putta (s533909@nwmissouri.edu)<br>
-   Project manager – Preetham Potu (s533713@nwmissouri.edu)<br>
-
-- Hardware includes the windows desktops for working on the web development of the application. Software includes licensed software of JIRA for task tracking, GIT repository for version control of implemented code. The documentation for the project include documentation software sharepoint. 
-
-- Software includes the Integrated Development Environment for development(Visual Studio), Repository cloud(GIT).
-
-- The nature of work is continuous integration and testing of software development.
-
-2.	Location of work:
-
-- Development takes place in a single office providing the basic safety. The same office is provided with good infrastructure which provides supportive hardware and software resources mentioned where people can work with ease.
-
-3.	Period of performance:
-
-- The work is expected to start on 22nd of May, 2019 and expected to end on 21st of June, 2019. The daily working hours are from 8:00 AM to 5:00 PM i.e. around 9 hours per day. Number of hours billed per week is 45 hours per week. The work must be performed in the office.
-
-4.	Deliverables schedule:
-
-Deliverable| Description | Due Date|
-|----|----|----|
-|Project charter| Charter contains data about key schedule milestones, information about budget, objectives of the project, roles and responsibilities of the stakeholders|5/24/2019
-|Project management plan| It contains schedule, tech nical process along with the project initiation |5/24/2019
-|Schedule management plan| Schedule model development, control cut offs of the deliverables, decriptions of the process |5/24/2019
-|Scope management plan| It contains work breakdown structure and approval of it and formal acceptance of deliverables |5/24/2019
-|Final product|Quiz app will be delivered with all the client requirements satisfied |06/06/2019
-
-
-5.	Applicable standards:
-
-- The code should follow standards of coding with maximum of 500 lines of code per file with more modularity. The tests should have minimum of 90% of code coverage so that most of the code is tested.
-
-6.	Acceptance criteria:
-
-- The requirements given by the client should be checked by the client and are well satisfied. The quality of the product should be ensured with execution time of each feature less than 500 milliseconds.
-
-
-7.	Special requirements:
-
-- The project should have human assets with qualified personnel with graduation in Applied Computer Science. Each employee should pass three phases of screening i.e. coding test, technical interview and HR round before taken into the project.
-
-Request for proposal:
-
-1.	Purpose of RFP:
-- To create a web application which enables to select the knowledge area, taking the quiz upon the interested topic.
-
-2.	Basic Requirements:
-
-  To add following features into the quizapp:
--	User should be able to fetch information about the selected knowledge area.
--	User should be able to select the knowledge area to take quiz.
-- Results should be displayed in the leaderboard.
-
-3.	Software Environment:
-
-- IDE(Visual Studio)
-- Repository Cloud(GIT)
-
-5.	Description of RFP Process:
-
-- Through a timely submission of document interface for each requirement and approval of the same.
-
-6.	Statement of work and schedule information:
-
-- The document is included in Project Management Plan
-
-7.	Possible Appendices:
-
-   a.	System Requirements:
- 
-- Windows desktop with IDE(Visual Studio)
-
-b.	Required Contents of Vendor’s Response to RFP:
-
-- Scope
-- Time
-- Cost
-- Quality
-
-c.	Model Contract:
-
-- The project should complete all the deliverables with good testing and clients should be satisfied.
-
-	
-
-
-
-
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone04/Request%20for%20Proposal.doc
 
 # Project Stakeholder Management:
 
 It deals with identifying stakeholders, creating risk register, and performing stakeholder analysis.
 
-Stakeholder Register:
+## Stakeholder Register:
 
 | Name | Position | Internal/External | Project Role | Contact Information |
 |-----|------|-------|--------|---------|
-| Dr.Denise Case | Client | External | Client| dcase@gmail.com |
-| Abhiram Madugula | System's Engineer | Internal | Project Sponsor & Developer | abhirmmadugula@gmail.com |
-| Preetham Potu | Consultant | Internal |  Project Manager | potupreetham@gmail.com |
-| Jyoshna Boppidi | Web developer | Internal |  Project Developer | boppidijyo123@gmail.com |
-| Himabindu Poshala | Software Tester | Internal |  Project Tester | bindu123@gmail.com |
-| Meghana Putta | Quality Engineer | Internal | Quality Analyst | puttameghana@gmail.com |
+| Mohan Krishna Alavala | Project manager/ Backend developer | Internal | Sr. Developer| +1 6605415768 |
+| Harish Thadka | Team Lead/ Front End developer| Internal | Sr. Developer | +1 6605280687 |
+| Rohith Chittimalla | Content & User Interface Developer | Internal |  Sr. Developer | +1 6605280778 |
+| Bhaskar Reddy Minupuri | Mobile application Developer | Internal |  Jr. Developer |+1 6605280164 |
+| Rohith Reddy Avisakula| Testing Manager | Internal |  Tester | +1 6602158754 |
+| Dr. Aziz Fellah |Client | External | End User | +1 0000000000 |
 
-Stakeholder Analysis:
+## Stakeholder Mangemenr strategy Link:
 
-| Name | Power/Interest | Current Engagement | Potential Management strategies |
-| ----- | ------------ | ----------- | ---------------- |
-| Abhiram Madugula | High/Medium |	Neutral	| Abhiram Madugula supported in project to join the project management team and will be the project member of the team.
-| Preetham Potu |	Medium/High |	Supportive |	Preetham Potu is in charge of the issues created in the project and takes care of how to resolve them.
-| Jyoshna Boppidi |	High/High	| Leading	| Jyoshna Boppidi has good communication skills for fruitful conversations with clients and customers.
-| Himabindu Poshala |	High/Medium	| Resistant	| Himabindu Poshala has good analytics skills to test from user point of view. |
-| Meghana Putta |	Medium/Medium	| Resistant	| Meghana Putta has to keep informed of key isssues and responsible for identifying requirements clearly.
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone04/Stakeholder%20Management%20Strategy.doc
 
-Issue Log:
+## Issue Log Link:
 
-| Issue #| Description | Impact | Date Reported|Reported By| Assigned To | Priority (H/M/L) | Due Date | Status| Comments|
-|-----|------|-------|--------|---------| --------- | --------- | --------- | --------- |---------|
-|1| Git repository server down| Project work delayed|05/18/2019| Preetham Potu|Abhiram Madugula | High |5/20/2019 | Closed| The issue is resolved by following up with Git support | 
-|2| Leaderboard performances is low| Quality is declined| 05/22/2019| Jyoshna Boppidi| Preetham Potu | Medium |05/24/2019 | Closed| changed the algorithm to obtain performance | 
-|3| Documentation format changes| Documentation structure is unsatisfactory| 05/26/2019| Himabindu Poshala| Meghana Putta | Low |05/28/2019 | In progress| The documentation changes are under progress | 
-|4| Test cases failed because of code coverage gates| Code coverage is less than 90%| 05/29/2019| Meghana Putta| Jyoshna Boppidi |Medium |05/30/2019 | Open| Should add more functional tests to increase code coverage | 
-|5| Project requirements may increase| Project will be delayed| 06/1/2019| Himabindu Poshala | Abhiram Madugula |High|06/2/2019 | Open| Enable multiple knowledge area selection| 
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone04/Issue%20Log.xls
