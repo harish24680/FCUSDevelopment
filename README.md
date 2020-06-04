@@ -2,11 +2,11 @@
 
 # Project Description:
 
-A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management.
+Main aim of the project is to build mobile applications for Client, the expansion of their business and banking operations on mobile devices. Client customers log in to their profiles in mobile application and use banking operations
 
 ## Project Repository:
 
-https://github.com/MeghanaPutta/QuizBuzz
+https://github.com/harish24680/FCUSMobileBanking
 
 ## Project Management Plan link:
 
@@ -16,21 +16,20 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
 
 https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
-## Team Name: Proj Pals
+## Team Name: FCUS Development
 
 ## Team Members:
+• Mohan Krishna Alavala<br>
+• Harish Thadka<br>
+• Rohith Chittimalla<br>
+• Bhaskar Reddy Minupuri<br>
+• Rohith Reddy Avisakula<br>
 
-• Jyoshna Boppidi<br>
-• Meghana Putta<br>
-• Himabindu Poshala<br>
-• Preetham Potu<br>
-• Abhiram Madugula<br>
-
-## Client: Dr. Denise Case
+## Client: Dr. Aziz Fellah
 
 ## Team Logo:
 
-![](https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone01/FCUS%20LOGO.png)
+![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
 
 ## Roles:
 
