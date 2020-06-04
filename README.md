@@ -51,17 +51,17 @@ https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/P
 
 ## Team Communication and Participation:
 
-We’re going to meet at our workplace for daily meetings and we’ll share the confidential information, project-related documents through our organization mails.
-We will discuss the work in below following schedule:
-Monday –Friday 
-At 6:30 PM -6:45 PM – Daily Standup Meeting.
-•	Team lead discuss about the work and updates about teamwork.
-Every Saturday 
-At 7:00 PM -8:00 PM – Team Meeting
-•	Project Manager shares project information with the project support team and clarifies team lead questions and offers input on the team member's work.
-Every Monday
-At 9:00 AM -11:00 AM – Client Meeting.
-•	Project Manager and Team lead provides information about project work to the client and backlogs of the project.
+We’re going to meet at our workplace for daily meetings and we’ll share the confidential information, project-related documents through our organization mails.  
+We will discuss the work in below following schedule:  
+Monday –Friday   
+At 6:30 PM -6:45 PM – Daily Standup Meeting.  
+•	Team lead discuss about the work and updates about teamwork.  
+Every Saturday   
+At 7:00 PM -8:00 PM – Team Meeting  
+•	Project Manager shares project information with the project support team and clarifies team lead questions and offers input on the team member's work.  
+Every Monday  
+At 9:00 AM -11:00 AM – Client Meeting.  
+•	Project Manager and Team lead provides information about project work to the client and backlogs of the project.  
 
 
 ## Team Members Contributions:
