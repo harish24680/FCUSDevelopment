@@ -54,15 +54,15 @@ Quality Management Plan is about maintaining the quality throughout the project 
 Metrics:
 
 We use the following metrics to measure the quality:
-•	High level malfunctions are caused by planning errors. This should be taken care of by project manager. 
-•	Intermediate stage faults are close to bugs. These are the mistakes that arise when we integrate various pieces into one project. Then we can do ample research. 
-•	Low Level Defects are software-related hardware defects and can be removed by providing the software required. 
-•	Unit Percentage of test cases = (Number of tests passed / Cumulative tests performed)*100
-•	Compatibility The proportion of test cases = (Number of exams obtained / Maximum experiments carried out)*100 
-•	Number of bugs per test = Total number of faults/ Total number of tests 
-•	Set defect percentage = (Current defects / Total recorded defects) * 100 
-•	Test Quality Output = Amount of Tests / Overall time 
-•	Error Locate Average = Total number of faults / Total test hours.
+•	High level malfunctions are caused by planning errors. This should be taken care of by project manager.  
+•	Intermediate stage faults are close to bugs. These are the mistakes that arise when we integrate various pieces into one project. Then we can do ample research.   
+•	Low Level Defects are software-related hardware defects and can be removed by providing the software required.   
+•	Unit Percentage of test cases = (Number of tests passed / Cumulative tests performed)*100  
+•	Compatibility The proportion of test cases = (Number of exams obtained / Maximum experiments carried out)*100   
+•	Number of bugs per test = Total number of faults/ Total number of tests   
+•	Set defect percentage = (Current defects / Total recorded defects) * 100   
+•	Test Quality Output = Amount of Tests / Overall time   
+•	Error Locate Average = Total number of faults / Total test hours.  
 •	Availability criteria = (Number of specifications protected / Maximum requirements)*100 
 •	Percentage of test cases conducted = (Number of test runs / Total number of test runs required)*100
 •	Acceptance defects = 0 High defects, 2 Medium defects, 4 Low defects = defects accepted by team / Total defects reported as valid
