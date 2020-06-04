@@ -116,5 +116,5 @@ At 9:00 AM -11:00 AM – Client Meeting.
 
 ## Team Signatures:
 
-https://docs.google.com/document/d/1intQk8RpWakyCnjPm6Fqd9247lt7IdUEXd72zKvoIxk/edit 
+https://docs.google.com/document/d/1intQk8RpWakyCnjPm6Fqd9247lt7IdUEXd72zKvoIxk/edit?usp=sharing 
 
