@@ -30,7 +30,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Team Logo:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
+![](https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone01/FCUS%20LOGO.png)
 
 ## Roles:
 
