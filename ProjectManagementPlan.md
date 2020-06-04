@@ -10,16 +10,16 @@ This project is all about the banking application. This app will contain two mod
 This briefly shows all the work that is done within a project.
 ## Requirements Specifications:
 
-ID|Requirement|Priority|Type|
----|---|---|---|
-1 |Application should have user friendly interface |High|Functional
-2 |Application should allow login for admins and users |High|Functional
-3 |Application should be safe and secured. |High|Functional
-4 |Mobile application should be bug free |High|Functional
-5 |Application must be capable of long-term performance.|Medium|Functional
-6 |Application should be Flexibility &Adaptability.|Low|Non-Functional
-7 |The user sould be able to do bank transcations |High|Non-Functional
-8 |The bank admins should be able to operate bank transactions |High|Non-Functional
+ID|Requirement|Priority|
+---|---|---|
+1 |Application should have user friendly interface |High
+2 |Application should allow login for admins and users |High
+3 |Application should be safe and secured. |High
+4 |Mobile application should be bug free |High
+5 |Application must be capable of long-term performance.|Medium
+6 |Application should be Flexibility &Adaptability.|Low
+7 |The user sould be able to do bank transcations |High
+8 |The bank admins should be able to operate bank transactions |High
 
 ## Scope Statement:
 It shows the details regarding deliverables and the objectives of the project.
