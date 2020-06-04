@@ -2,16 +2,18 @@
 # Project Management Plan:
 Introduction:
 
-In this project, the user should be able to test him/herself about the processes in knowledge areas. Application starts with user registration and login and then they can either study or take a quiz on different knowledge areas. After the quiz, they can track their leaderboard positions and the topper in that quiz.
+This project is all about the banking application. This app will contain two modules app admin module and app user module. In the app user module the user will do the transactions and requests for their necessary requirements and they can also check there account details and needs. In the app admin module, admin will do the necessary actions and requests of all the users and they will post all the needs of the users. The application development process will be done by the web developer and interface with the UI developer and backend work will be done by the back-end developer. The team lead will handle the work process.
+
 # Project Scope Management:
+
 This briefly shows all the work that is done within a project.
 # Requirements Specifications:
 
 ID|Requirement|Priority|Type|
 ---|---|---|---|
-1 |The application should be simple but useful |High|Functional
-2 |The application should allow login and registration as well |High|Functional
-3 |The user should be able to retake the quiz |High|Functional
+1 |The application should have user friendly interface |High|Functional
+2 |The application should allow login for admins and users |High|Functional
+3 |The users should be able to retake the quiz |High|Functional
 4 |The user should see the number of attempts |High|Functional
 5 |The user should be able to view his/her score after each attempt |High|Functional
 6 |The user should see all the criterias(knowledge areas) provided to test him/her |Medium|Non-Functional
