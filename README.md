@@ -51,8 +51,18 @@ https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/P
 
 ## Team Communication and Participation:
 
-We will conduct few stand-up meetings in Colden Hall or Horizons West, and also communicate through phone calls, e-mails, WhatsApp group, Skype for Business, etc.
-If any non-participating team member is present in our group, we will encourage him/her by allocating at least a small and interesting task and make him/her actively participate in the project.
+We’re going to meet at our workplace for daily meetings and we’ll share the confidential information, project-related documents through our organization mails.
+We will discuss the work in below following schedule:
+Monday –Friday 
+At 6:30 PM -6:45 PM – Daily Standup Meeting.
+•	Team lead discuss about the work and updates about teamwork.
+Every Saturday 
+At 7:00 PM -8:00 PM – Team Meeting
+•	Project Manager shares project information with the project support team and clarifies team lead questions and offers input on the team member's work.
+Every Monday
+At 9:00 AM -11:00 AM – Client Meeting.
+•	Project Manager and Team lead provides information about project work to the client and backlogs of the project.
+
 
 ## Team Members Contributions:
 
@@ -63,55 +73,55 @@ If any non-participating team member is present in our group, we will encourage 
   </tr>
   <tr>
     <td>Integration management</td>
-    <td>Project charter and management plan is described by Abhiram Madugula</td>
+    <td>Project charter and management plan is described by Mohan Krishna Alavala</td>
   </tr>
    <tr>
     <td>Cost management</td>
-    <td>Budget of the project and cost estimation is estimated by Jyoshna Boppidi</td>
+    <td>Budget of the project and cost estimation is estimated by Rohith Reddy Avisakula</td>
   </tr>
   <tr>
     <td>Time management</td>
-    <td>Scheduling management plans and gantt charts are given by Preetham Potu</td>
+    <td>Scheduling management plans and gantt charts are given by Rohith Chittimalla</td>
   </tr>
   <tr>
     <td>Scope management</td>
-    <td>Scope of the project, specification requirements and work breakdown structure will be defined by Himabindu Poshala </td>
+    <td>Scope of the project, specification requirements and work breakdown structure will be defined by Harish Thadka </td>
   </tr>
   <tr>
     <td>Quality management</td>
-    <td>Quality of the project is monitored by Meghana Putta</td>
+    <td>Quality of the project is monitored by Bhaskar Reddy Minupuri</td>
   </tr>
    <tr>
     <td>Human resource management</td>
-    <td>Organizational charts are described by Abhiram Madugula</td>
+    <td>Organizational charts are described by Rohith Chittimalla</td>
   </tr>
   <tr>
     <td>Communication management</td>
-    <td>Risk of the project is determined, monitored by Preetham Potu</td>
+    <td>Risk of the project is determined, monitored by Rohith Reddy Avisakula</td>
   </tr>
    <tr>
     <td>Risk management</td>
-    <td>Stakeholder communications are analysed by Jyoshna Boppidi</td>
+    <td>Stakeholder communications are analysed by Harish Thadka</td>
   </tr>
    <tr>
     <td>Procurement management</td>
-    <td>Request of proposals and review of work is handled by Himabindu Poshala</td>
+    <td>Request of proposals and review of work is handled by Mohan Krishna Alavala</td>
   </tr>
    <tr>
     <td>Stakeholder management</td>
-    <td>Stake holder registration, analysis and issue log is maintained by Meghana Putta</td>
+    <td>Stake holder registration, analysis and issue log is maintained by Bhaskar Reddy Minupuri</td>
   </tr>
   </table>
 
 
 ## Team Signatures:
 
-Jyoshna Boppidi
+Mohan Krishna Alavala
 <br>
-Himabindu Poshala
+Harish Thadka
 <br>
-Meghana Putta
+Rohith Chittimalla
 <br>
-Preetham Potu
+Bhaskar Reddy Minupuri
 <br>
-Abhiram Madugula
+Rohith Reddy Avisakula
