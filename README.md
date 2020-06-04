@@ -2,11 +2,11 @@
 
 # Project Description:
 
-Main aim of the project is to build mobile applications for Client, the expansion of their business and banking operations on mobile devices. Client customers log in to their profiles in mobile application and use banking operations
+A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management.
 
 ## Project Repository:
 
-https://github.com/harish24680/FCUSMobileBanking
+https://github.com/MeghanaPutta/QuizBuzz
 
 ## Project Management Plan link:
 
@@ -14,39 +14,40 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
 
 ## Work Breakdown Structure link:
 
-https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/WBS.xls
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
-## Team Name: FCUS Development
+## Team Name: Proj Pals
 
 ## Team Members:
-• Mohan Krishna Alavala<br>
-• Harish Thadka<br>
-• Rohith Chittimalla<br>
-• Bhaskar Reddy Minupuri<br>
-• Rohith Reddy Avisakula<br>
 
-## Client: Dr. Aziz Fellah
+• Jyoshna Boppidi<br>
+• Meghana Putta<br>
+• Himabindu Poshala<br>
+• Preetham Potu<br>
+• Abhiram Madugula<br>
+
+## Client: Dr. Denise Case
 
 ## Team Logo:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
+![](https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone01/FCUS%20LOGO.png)
 
 ## Roles:
 
-Project sponsor – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-Tester – Himabindu Poshala (s533727@nwmissouri.edu)<br>
-Developer – Jyoshna Boppidi (s533706@nwmissouri.edu)<br>
-Developer – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-Quality analyst – Meghana Putta (s533909@nwmissouri.edu)<br>
-Project manager – Preetham Potu (s533713@nwmissouri.edu)<br>
+Project sponsor – Dr. Aziz Fellah(afellah@nwmissouri.edu)<br>
+Tester – Rohith Reddy Avisakula (s538294@nwmissouri.edu)<br>
+Jr. Developer – Bhaskar Reddy Minupuri (s538310@nwmissouri.edu)<br>
+Sr. Developer – Rohith Chittimalla (s538308@nwmissouri.edu)<br>
+Team Lead – Harish Thadka (s538362@nwmissouri.edu)<br>
+Project manager – Mohan Krishna Alavala (s538097@nwmissouri.edu)<br>
 
 ## Project Charter:
 
-Our Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies.
+Project charter is a document that indicates the start of a project or start of a phase of a project.
 
 ## Project Charter Link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
+https://github.com/harish24680/FCUSMobileBanking/blob/master/GroupBMilestone02/Project%20Charter.docx
 
 ## Team Communication and Participation:
 
